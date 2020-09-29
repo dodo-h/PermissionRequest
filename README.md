@@ -1,2 +1,2 @@
 # PermissionRequest
-a simple permission request library
+A simple permission request library
